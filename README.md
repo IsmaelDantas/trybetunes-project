@@ -17,5 +17,4 @@ TrybeTunes is an iTunes-style React application that fetches music data from the
 - CSS3
 - JavaScript ES6+
 - React.js
-- React Testing Library (RTL)
 - React Icons (icon library)
